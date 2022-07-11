@@ -7,10 +7,9 @@ function Login() {
       <div className='tdiv'>
 
       </div>
-
-
       <div className='bdiv'>
-
+      </div>
+      <div className='bddiv'>
       </div>
       
     </div>
